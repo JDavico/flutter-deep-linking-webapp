@@ -1,0 +1,14 @@
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.davidsamame.miscelaneos",
+      "sha256_cert_fingerprints": [
+        "6E:A3:BB:11:CE:08:D8:4C:95:84:F8:76:86:11:5C:D5:9F:C2:9F:96:3B:9F:41:A5:F2:D2:D8:BB:3F:52:8E:B6"
+      ]
+    }
+  }
+]
